@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("Making changes")
 //        let puzzleInput = "great minds think alike"
 //        var puzzleOutput = ""
 //        let charactersToRemove: [Character] = ["a", "e", "i", "o", "u", " "]
